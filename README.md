@@ -1,3 +1,4 @@
+# Deep-Learning-Classification-of-Dry-Fruits
 # Image Classification of Dry Fruits
 
 This project demonstrates the use of deep learning to classify images of different types of dry fruits. It explores two different approaches: a simple Convolutional Neural Network (CNN) built from scratch and a more advanced approach using transfer learning with the MobileNetV2 architecture.
